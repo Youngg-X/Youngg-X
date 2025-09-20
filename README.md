@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Developer & Creator — Building projects in web, game, and SA-MP server development  <br>🌱 Currently Learning — Advanced programming, AI, and new technologies  <br>🎮 **Passions — Game development, multiplayer systems, and creative coding  <br>🚀 Goals — Contribute to open-source and create impactful digital experiences  
+💻 **Developer & Creator** — Building projects in web, game, and SA-MP server development  <br>🌱 **Currently Learning** — Advanced programming, AI, and new technologies  <br>🎮 **Passions** — Game development, multiplayer systems, and creative coding  <br>🚀 **Goals** — Contribute to open-source and create impactful digital experiences  
 
 
 ## 🌐 Socials:
